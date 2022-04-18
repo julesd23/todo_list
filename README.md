@@ -7,4 +7,4 @@ This is a simple stylized todo list that showcases seperation of components, as 
 To run this simply navigate to the URL, and expirement with adding and taking away your own todos.
 
 ## Roadmap
-I would like to add more functionality in the future. possible adding dates and times, or even a 'completed' page.
+I would like to add more functionality in the future. There could be added timestamps, or even a 'completed tasks' page.
