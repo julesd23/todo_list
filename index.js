@@ -32,6 +32,7 @@ function App(){
         {todos.map((todo, i) =>
           <Todo index={i} key={i} todo={todo} remove={removeTodo}></Todo>)}
         <TodoForm addTodo={addTodo} />
+        
         </div>
       </div>
 
